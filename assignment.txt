@@ -1,0 +1,24 @@
+Analytical Stats on:
+Size of the data sets,
+Field Types,
+N-rows & N-columns,
+Null values,
+Repeated (deduplication!)
+Redundant columns.
+Columns that needs further treatment (intuition)
+Summary stats for columns/fields
+Central tendencies, interquartile measures, distances
+skew, kurtosis, outliers etc. Value Range and Top/Bottom valued for fields, etc.
+
+Exploratory Visualizations:
+Data Distribution plots
+Box Plots
+Intra and inter filed Variance
+Modality of data
+Collinearity and Covariance among variables
+Boxplots for outliers and Quartile distros.
+Correlation Heatmaps, Auto regression lines.
+Interactive Plots for What-If-Analysis, Etc.
+Measures of data quality is an added advantage!
+Automation and amenability to CI/CD is a good measure
+Solution maintainability and extensibility matter a lot.
